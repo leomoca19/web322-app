@@ -1,0 +1,14 @@
+{
+  "name": "web322-app",
+  "version": "1.0.0",
+  "description": "Assignment2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo de la Mora Caceres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
